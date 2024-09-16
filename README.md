@@ -30,7 +30,7 @@ This repository contains code and data for building and evaluating phishing dete
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/Codewith-Vedant/Phishing]
+   git clone https://github.com/Codewith-Vedant/Phishing
    cd Phishing
 2. **Install dependencies and libraries**  
    python -m venv env  
