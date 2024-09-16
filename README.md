@@ -32,11 +32,11 @@ This repository contains code and data for building and evaluating phishing dete
    ```bash
    git clone https://github.com/yourusername/Phishing.git
    cd Phishing
-2. **Install dependencies and libraries**
+2. **Install dependencies and libraries**  
    python -m venv env  
   source env/bin/activate  # On Windows use `env\Scripts\activate`  
   pip install -r requirements.txt  
-3. **Download and Combine Datasets to 1 final dataset**
+3. **Download and Combine Datasets to 1 final dataset**  
    Download the datasets from the following links:(Download the datasets whose names are in the Combining_Dataset_using_python.ipynb, as they have same format)  
    https://figshare.com/articles/dataset/Phishing_Email_Curated_Datasets/24899943/1  
    Open the jupyter notebook and run *Combining_Dataset_using_python.ipynb* file  
