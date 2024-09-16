@@ -37,7 +37,7 @@ This repository contains code and data for building and evaluating phishing dete
   source env/bin/activate  # On Windows use `env\Scripts\activate`  
   pip install -r requirements.txt  
 3. **Download and Combine Datasets to 1 final dataset**  
-   Download the datasets from the following links:(Download the datasets whose names are in the Combining_Dataset_using_python.ipynb, as they have same format)  
+   Download the datasets from the following links:(Download the datasets whose names are in the *Combining_Dataset_using_python.ipynb*, as they have same format)  
    https://figshare.com/articles/dataset/Phishing_Email_Curated_Datasets/24899943/1  
    Open the jupyter notebook and run *Combining_Dataset_using_python.ipynb* file  
 4. **Train the model**  
